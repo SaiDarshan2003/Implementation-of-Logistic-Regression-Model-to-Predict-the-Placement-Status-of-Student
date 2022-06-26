@@ -49,7 +49,7 @@ classification_report1 = classification_report(y_test,y_pred)
 print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 ### Output:
-![inp](99.png)
+![inp](35.png)
 ![inp](5.png)
 ![inp](6.png)
 ![inp](7.png)
