@@ -57,8 +57,7 @@ print(classification_report1)
 print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 ## Output:
-![inp](2.png)
-![inp](3.png)
+![inp](Screenshot 2022-06-27 003121.png)
 ![inp](5.png)
 ![inp](6.png)
 ![inp](7.png)
