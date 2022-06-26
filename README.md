@@ -1,4 +1,4 @@
-## Implementation of Logistic Regression Model to Predict the Placement Status of Student
+# Implementation of Logistic Regression Model to Predict the Placement Status of Student
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 ## Equipments Required:
@@ -58,7 +58,6 @@ print(classification_report1)
 print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 ## Output:
-![inp](1.png)
 ![inp](2.png)
 ![inp](3.png)
 ![inp](4.png)
