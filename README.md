@@ -10,9 +10,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 3. Import LabEncoder module.
 4. From sklearn import logistic regression.
 5. Predict the values of array.
-6. Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+6. Calculate the accuracy, confusion and classification report.
 7. Print the required values.
-8. End the program.
 ## Program:
 ```
 Developed by: Sai Darshan G
